@@ -36,7 +36,7 @@ O objetivo do projeto foi responder a estas perguntas de negócio:
 
 ### Demonstração do Dashboard:
 
-![Demonstração do Dashboard](Demonstração%20do%20Dashboard.png)
+![Demonstração do Dashboard](demonstração%20do%20dashboard.png)
 
 ---
 
