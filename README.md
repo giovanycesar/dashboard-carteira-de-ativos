@@ -141,7 +141,7 @@ seção 17 - projeto ativos/
 ├── 📊 projeto-ativos.xlsx              # Pasta de trabalho principal com Tabelas, Relatórios e Dashboard
 ├── 📑 base-de-dados-projeto-ativos.xlsx # Base de dados histórica bruta (Aportes e Proventos)
 ├── 📑 projeto-gestao-de-ativos.pdf     # Documento com diretrizes pedagógicas e requisitos do projeto
-└── 🖼️ Demonstração do Dashboard.png   # Imagem de demonstração do Dashboard Executivo
+└── 🖼️ demonstração do dashboard.png   # Imagem de demonstração do Dashboard Executivo
 ```
 
 ---
